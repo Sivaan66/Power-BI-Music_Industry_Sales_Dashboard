@@ -31,13 +31,13 @@ The prevailing business challenge is to optimize the marketing and advertisement
 
  
 
-✓ Limited Global Reach: Presently, Sway's popularity is confined to specific regional pockets, posing a significant hurdle in achieving global recognition. A crucial task is expanding Sway's fan base to encompass a worldwide audience, thereby broadening the album's reach.
+**✓ Limited Global Reach:** Presently, Sway's popularity is confined to specific regional pockets, posing a significant hurdle in achieving global recognition. A crucial task is expanding Sway's fan base to encompass a worldwide audience, thereby broadening the album's reach.
  
 
-✓ Intense Competition: The music industry operates within an environment of cutthroat competition, intensifying the difficulties faced by emerging artists. Navigating this fiercely competitive landscape necessitates a carefully crafted advertising strategy that can help Sway stand out amidst a sea of talent.
+**✓ Intense Competition:** The music industry operates within an environment of cutthroat competition, intensifying the difficulties faced by emerging artists. Navigating this fiercely competitive landscape necessitates a carefully crafted advertising strategy that can help Sway stand out amidst a sea of talent.
  
 
-✓ Evolving Consumer Preferences: The music consumption landscape is continuously shifting, driven by rapid changes in technology and consumer behavior. Staying attuned to these dynamic preferences is imperative, as it demands continuous adaptation and innovation in our marketing approach to effectively connect with the target audience on the platforms they favor.s
+**✓ Evolving Consumer Preferences:** The music consumption landscape is continuously shifting, driven by rapid changes in technology and consumer behavior. Staying attuned to these dynamic preferences is imperative, as it demands continuous adaptation and innovation in our marketing approach to effectively connect with the target audience on the platforms they favor.s
 
 ---
 
