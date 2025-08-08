@@ -57,27 +57,27 @@ SunMusic has information on 3000 listeners, which will be analyze for actionable
 
 **Listeners Dataset:**
 
-✓ Listeners_ID: A unique identifier for each listener.  
-✓ Age: The age of the listener.  
-✓ Gender: The gender of the listener (Male, Female, Others).  
-✓ Location: The location of the listener, randomly selected from various cities.  
-✓ Music_Preferences: The music genre preference of the listener (Pop, HipHop, Alternative, Country, RnB).  
-✓ Income_Level: The income level of the listener (Low, Medium, High).  
-✓ Platform: The social media platform the listener is associated with (TikTok, Twitter, Instagram).  
-✓ Album_Sales: The number of albums a listener has purchased.  
-✓ Streaming_Numbers: The number of music streams per listener.  
-✓ Streaming_Platform: The streaming platform used by the listener (Spotify, YouTube, Apple Music, Tidal, Others).  
-✓ Acquisition_Medium: The method or medium through which the listener was acquired (Organic, Adverts, Radio plays, Influencers).  
-> Check [`/Data`](./listeners_dataset.csv/) for raw and cleaned datasets.
+**✓ Listeners_ID:** A unique identifier for each listener.  
+**✓ Age:** The age of the listener.  
+**✓ Gender:** The gender of the listener (Male, Female, Others).  
+**✓ Location:** The location of the listener, randomly selected from various cities.  
+**✓ Music_Preferences:** The music genre preference of the listener (Pop, HipHop, Alternative, Country, RnB).  
+**✓ Income_Level:** The income level of the listener (Low, Medium, High).  
+**✓ Platform:** The social media platform the listener is associated with (TikTok, Twitter, Instagram).  
+**✓ Album_Sales:** The number of albums a listener has purchased.  
+**✓ Streaming_Numbers:** The number of music streams per listener.  
+**✓ Streaming_Platform:** The streaming platform used by the listener (Spotify, YouTube, Apple Music, Tidal, Others).  
+**✓ Acquisition_Medium:** The method or medium through which the listener was acquired (Organic, Adverts, Radio plays, Influencers).  
+**> Check [`/Data`](./listeners_dataset.csv/) for raw and cleaned datasets.**
 
 **Competitors Analysis Dataset:**  
 
-✓ Competitor_Name: The name of the competitor artist.  
-✓ No_of_Followers: The number of followers or fans the competitor has.  
-✓ Album_Sales: The competitor's album sales  
-✓ Streaming_Numbers: The competitor's streaming numbers  
-✓ Genre: The music genre associated with the competitor (Pop, HipHop, Alternative, RnB, Country).  
-> Check [`/Data`](./competitors_analysis_dataset.csv/) for raw and cleaned datasets.
+**✓ Competitor_Name:** The name of the competitor artist.  
+**✓ No_of_Followers:** The number of followers or fans the competitor has.  
+**✓ Album_Sales:** The competitor's album sales  
+**✓ Streaming_Numbers:** The competitor's streaming numbers  
+**✓ Genre:** The music genre associated with the competitor (Pop, HipHop, Alternative, RnB, Country).  
+**> Check [`/Data`](./competitors_analysis_dataset.csv/) for raw and cleaned datasets.**
 
 ---
 
@@ -98,11 +98,11 @@ SunMusic has information on 3000 listeners, which will be analyze for actionable
 ![Dashboard Screenshot](./DashBoard.pdf)
 
 The dashboard includes:
-- KPIs: Total Listeners, Total male listeners, Total female listeners, Streaming numbers, total album sales
-- Line Chart: Total listeners by location, Total listeners by Age range, Total listeners by location
-- Bar Chart: Total listeners by Age range, Total listeners by music preferences, Total listeners by income level
-- Pie Chart: Total Listeners by aquisition medium and streaming medium
-- Filters: Genre, Location, Competitior name
+- **KPIs:** Total Listeners, Total male listeners, Total female listeners, Streaming numbers, total album sales
+- **Line Chart:** Total listeners by location, Total listeners by Age range, Total listeners by location
+- **Bar Chart:** Total listeners by Age range, Total listeners by music preferences, Total listeners by income level
+- **Pie Chart:** Total Listeners by aquisition medium and streaming medium
+- **Filters:** Genre, Location, Competitior name
 
 ---
 
