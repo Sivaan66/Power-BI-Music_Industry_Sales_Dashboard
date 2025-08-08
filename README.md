@@ -121,7 +121,7 @@ The dashboard includes:
 - The majority of Sway's listeners were acquired through advertising efforts.
 - Spotify was the streaming platformed most used by Sway's listeners.
 
-  **For detailed insights and further recomendations please consider to the [`/Report`](./listeners_dataset.csv/).**
+  **For detailed insights and further recomendations please consider to the [`/Report`](./Sway_Album_Marketing_Report.docx/).**
 
 ---
 
